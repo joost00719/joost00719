@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @joost00719
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning .NET 5
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me: u cant
+- 👀 I’m interested in the .NET ecosystem
+- 🌱 I’m currently learning Blazor
+<!-- - 💞️ I’m looking to collaborate on nothing -->
+- 📫 How to reach me: Make international news
 
 <!---
 joost00719/joost00719 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
